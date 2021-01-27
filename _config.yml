@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "1ofthebest"
+title                    : "입시가이드"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "blogest"
-description              : "An amazing website."
+name                     : "입시가이드"
+description              : "대학알리미 입시전형 수시등급 정시등급 대학정보 입시정보"
 url                      : "http://bloghost.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
